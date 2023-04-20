@@ -2,6 +2,14 @@
 # Lab #3: Develop Code Repository and Push Commits 
 
 
+|      Name      |        Email       |
+---------------------------------------
+| Xin Xang |xxang@mail.yu.edu|
+| Pratibha Bhalerao |pbhalerao@mail.yu.edu|
+| Yuchen Wang |ywang@mail.yu.edu|
+| Isaac Bendahan |ibendaha@mail.yu.edu|
+
+
 **Points: 10**  
 **Assignment Type: Group submissions**
 
